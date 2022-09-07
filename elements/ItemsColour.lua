@@ -1,9 +1,3 @@
----
---- @author Dylan MALANDAIN, Kalyptus
---- @version 1.0.0
---- created at [24/05/2021 10:02]
----
-
 RageUI.ItemsColour = {
     PureWhite = { 255, 255, 255, 255 },
     White = { 240, 240, 240, 255 },

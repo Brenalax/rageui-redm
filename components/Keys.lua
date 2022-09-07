@@ -1,9 +1,3 @@
----
---- @author Dylan MALANDAIN, Kalyptus
---- @version 1.0.0
---- File created at [24/05/2021 00:00]
----
-
 Keys = {};
 
 ---Register
