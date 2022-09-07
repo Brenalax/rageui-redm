@@ -35,5 +35,5 @@ function OpenMenu()
     end
 end
 ```
-> Default version made by Dylan and this edition made by Brenalax with 💖
+> Default version made by Dylan and this edition (easy version) made by Brenalax with 💖
 ###### Credit Brenalax
